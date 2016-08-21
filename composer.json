@@ -1,0 +1,7 @@
+{
+  "name": "freifunk-pinneberg/website-vm",
+  "description": "VM for Developing",
+  "require": {
+    "composer/installers": "1.*"
+  }
+}
